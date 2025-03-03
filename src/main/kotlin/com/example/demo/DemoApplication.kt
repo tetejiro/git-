@@ -7,6 +7,5 @@ import org.springframework.boot.runApplication
 class DemoApplication
 
 fun main(args: Array<String>) {
-	// main 取り込んでほしい箇所
 	runApplication<DemoApplication>(*args)
 }
