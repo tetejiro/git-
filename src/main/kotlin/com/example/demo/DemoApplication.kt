@@ -7,5 +7,6 @@ import org.springframework.boot.runApplication
 class DemoApplication
 
 fun main(args: Array<String>) {
+	// branch2 の修正
 	runApplication<DemoApplication>(*args)
 }
