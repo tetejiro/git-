@@ -8,6 +8,6 @@ class DemoApplication
 
 fun main(args: Array<String>) {
 	// branch2 の修正
-	// ローカルの修正
+	// コンフリクト解消
 	runApplication<DemoApplication>(*args)
 }
