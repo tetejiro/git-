@@ -8,6 +8,5 @@ class DemoApplication
 
 fun main(args: Array<String>) {
 	// branch2 の修正
-	// コンフリクト解消後の修正
 	runApplication<DemoApplication>(*args)
 }
