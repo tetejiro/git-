@@ -8,5 +8,6 @@ class DemoApplication
 
 fun main(args: Array<String>) {
 	// branch2 の修正
+	// リモートの修正
 	runApplication<DemoApplication>(*args)
 }
