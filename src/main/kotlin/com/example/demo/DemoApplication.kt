@@ -7,7 +7,6 @@ import org.springframework.boot.runApplication
 class DemoApplication
 
 fun main(args: Array<String>) {
-	// branch2 の修正
-	// コンフリクト解消
+    // rebase-test
 	runApplication<DemoApplication>(*args)
 }
