@@ -7,6 +7,6 @@ import org.springframework.boot.runApplication
 class DemoApplication
 
 fun main(args: Array<String>) {
-    // rebase-test2
+    // rebase-test
 	runApplication<DemoApplication>(*args)
 }
